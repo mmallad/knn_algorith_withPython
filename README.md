@@ -1,4 +1,4 @@
-##Showing K-Nearest Neighbour Machine Learning Algorith in Python Code
+##Showing K-Nearest Neighbour Machine Learning Algorithm in Python Code
 
 1. First create sample training dataset
 2. Assign class for each. Like [2.5,3.5] => Bad and [4.5,5] => Good. So according to this classification is done.
