@@ -6,6 +6,6 @@
 4. Select the k items with lowest distance. Here k is the number.
 5. And select the k item with higest voting which will be the class that Good or Bad for you new data.
 
-#Please you must have numpy module.
+##You must have numpy module.
 
 
